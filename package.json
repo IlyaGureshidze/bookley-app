@@ -1,0 +1,22 @@
+{
+  "name": "bookley",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlyaGureshidze/bookley-app.git"
+  },
+  "author": "Ilya Gureshidze and Jev Goronin Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlyaGureshidze/bookley-app/issues"
+  },
+  "homepage": "https://github.com/IlyaGureshidze/bookley-app#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
